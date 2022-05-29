@@ -118,7 +118,7 @@ body {
     .arrow_icon{ margin-top: 180px;}
     .dot_inner_section{ bottom: -181px;}
   }
-  @media only screen and (max-width: 452px) {
+  @media only screen and (max-width: 434px) {
     .card_title_section .card_title h1{ font-size: 52px; line-height: 98px;}
     .img_section{ width: 174px; height: 174px; border: 15px solid #3d414e;}
     .inner_img_section img{ width: 150px; height: 150px;}
