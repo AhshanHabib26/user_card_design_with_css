@@ -71,7 +71,7 @@ body {
 .dot_inner_section{
     position: absolute;
     left: 50%;
-    bottom: -120px;
+    bottom: -122px;
     transform: translate(-50%, -50%);
   }
   .dot_inner_section .dot {
